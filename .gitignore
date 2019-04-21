@@ -4,6 +4,7 @@ logs
 
 # Dependency directory
 node_modules
+dist
 
 # Debug log from npm
 npm-debug.log
